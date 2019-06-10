@@ -1,0 +1,366 @@
+
+#newteamwrite1{
+  float: right;
+  width: 67%
+}
+#chef1{
+  float: left;
+  width: 30%;
+  height: 40%;
+}
+#rmanager{
+  float: left;
+  width: 45%;
+  height: auto ;
+}
+#bmanager{
+  float: right;
+  width: 45%;
+  height: auto ;
+
+}
+.newteam hr{
+  margin-top: 40%;
+}
+.scrollteam{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.newteam{
+
+  background-color: blue;
+  width: 64%;
+  height:92%;
+ padding: 3% 3%;
+  margin: 0% 31%
+}
+.newteamwrite{
+  width: 60%;
+  float: left;
+
+}
+#chef{
+  width: 33%;
+  float: right;
+  height: 50%;
+}
+
+
+.selection{
+  padding-left:90px;
+  padding-right:90px;
+  border: 3px solid black;
+
+}
+.maps{
+  padding-top: 10px;
+ margin: 0px 66px;
+  width: 500px;
+  height: 400px;
+}
+.selection:hover{
+   cursor:pointer;
+  background-color: black;
+  color: white;
+}
+
+.contact h3{
+  margin-top: 0px;
+  padding-top:  200px;
+    margin-left: 115px;
+}
+.contact p{
+  margin-top: -15px;
+  padding: 50px;
+}
+.side_bar{
+width: 350px;
+height: 835px;
+margin-left: 90px;
+background-color: rgba(60, 153, 64,0.6);
+display: block;
+
+}
+
+.datepicker1{
+  padding: 25px;
+  padding-left:90px;
+}
+
+.container{
+  background-color:rgba(0,0,0,0.6);
+  width: 1400px;
+  height:860px;
+  z-index: 1;
+
+}
+.logo{
+  float: left;
+  font-family: Mr De Haviland,cursive;
+  padding-left: 138px
+
+}
+
+
+.header{
+
+  width: 1342px;
+  padding-bottom: 9px;
+  height:80px;
+  position: static;
+  display:block;
+
+}
+.top{
+ padding-top: 40px;
+
+}
+.leaders li:hover {
+  background-color: rgba(4, 9, 10, 0.82);
+ border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.socialmedia{
+padding: 25px 90px;
+
+}
+.menu{
+  padding-top: 100px;
+  height: 740px;
+
+}
+
+.menu h2{
+  padding-left: 130px;
+    margin-bottom: 50px;
+}
+.menu p{
+  padding: 40px 20px;
+
+}
+.scroll1{
+  overflow-y:  hidden;
+  overflow-x:  hidden;
+}
+.scroll{
+  overflow-y: scroll;
+  overflow-x:  hidden;
+  height: 400px;
+
+}
+
+
+.address hr{
+  margin-right: 50%;
+}
+.socialmedia img{
+  height: 30px;
+  width:23px;
+  padding: 5px
+}
+.address{
+padding-left: 90px;
+}
+.nav li{
+  float: left;
+  margin-left: 15px;
+  margin-right:15px;
+  list-style-type: none;
+}
+.writting{
+  padding: 30px;
+  padding-top:300px;
+
+}
+.writting h1{
+  padding-left: 47px;
+}
+.nav{
+float: left;
+  padding-left: 70px;
+}
+.newcontact{
+  margin-left: 24px;
+  padding: 40px 115px;
+  background-color: rgba(0,0,30,0.5);
+  width: 860px;
+  height: 730px;
+
+}
+.nav a{
+  text-decoration: none;
+  color: white;
+
+}
+.newmenu li:hover{
+
+  margin-left: 0px;
+
+}
+.leaders li{
+  padding: 20px 0px 30px 0px;
+
+}
+
+ul.leaders {
+    max-width: 44.5em;
+    padding:0px;
+
+    overflow-x: hidden;
+    list-style: none}
+ul.leaders li:before {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+    content:
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "}
+ul.leaders span:first-of-type {
+    padding-right: 0.33em;
+    padding-left: 0.33em;
+
+    background: rgba(49, 173, 61, 0.79);
+    border-radius: 10px;
+
+}
+
+ul.leaders span + span {
+    float: right;
+    padding-left: 0.33em;
+  padding-left: 0.33em;
+    background: rgba(49, 173, 61, 0.79);
+border-radius: 5px;}
+
+
+
+.rightside {
+
+float: left;
+  margin-top: 30px;
+margin-left: 60px;
+height: 750px;
+
+}
+
+.reser{
+  margin-top: 10px;
+  padding-left: 75px;
+}
+.newmenu{
+  padding-left: 40px;
+  margin-left: 32px;
+  width: 860px;
+  height: 176%;
+    padding-top: 50px;
+margin-top: 10px;
+  background-color: rgba(34, 157, 161,0.8);
+
+}
+.clear{
+  clear: both;
+}
+
+body {
+  margin: 0%;
+  background-image:url(food.jpg);
+
+  background-repeat: repeat-x;
+
+  background-size: contain;
+ background-color: rgba()
+}
+h1{
+  margin: 0%
+}
+li{
+  margin: 0%;
+}
+
+
+
+a:hover{
+  padding-bottom: 10px;
+  border-bottom:   2px solid blue ;
+
+}
+
+a:active{
+   border-top: 4px solid rgb(22, 94, 140);
+  padding-top: 53px;
+  padding-bottom: 10px;
+
+
+}
+
+/* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    width: 781px;
+    height:135px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility:  hidden;
+    width: 400px;
+    height: 228px;
+  left: 24%;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+
+    position:absolute;
+    z-index: 1;
+
+
+    border: 3px solid black;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    border: 3px solid black;
+     top:-15% ;
+    left:50%;
+
+    margin-left: -15px;
+    border-width: 15px;
+    border-style: solid;
+    border-color:  transparent  transparent #555 transparent  ;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+
+    border: 3px solid black;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+
+.size{
+  width:200px;
+  height:100px;
+}
