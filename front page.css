@@ -204,7 +204,7 @@ float: left;
 }
 
 ul.leaders {
-    max-width: 44.5em;
+   max-width: min-content;
     padding:0px;
 
     overflow-x: hidden;
