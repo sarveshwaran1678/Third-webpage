@@ -208,7 +208,7 @@ ul.leaders {
     padding:0px;
 
     overflow-x: hidden;
-    list-style: none}
+    list-style: none;}
 ul.leaders li:before {
     float: left;
     width: 0;
